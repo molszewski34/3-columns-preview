@@ -8,7 +8,7 @@
 
 - [Overview](#overview)
 - [Motivation](#motivation)
--[Technologies](#technologies)
+- [Technologies](#technologies)
 - [Features](#features)
 - [What I learned](#what-i-learned)
 
