@@ -1,6 +1,6 @@
 # 3-column preview card component solution
 
-! [3-columns] (https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.jpg)
+(https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
 
 3-column preview card component is a simple site build with only html and css. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here] (https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
